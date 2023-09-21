@@ -23,7 +23,7 @@ public class MethodCalling {
 		
 
 	}
-	//Display numberd
+	//Display number
 	
 	public static void show (int num1, int num2) {
 		System.out.println("Entered Two Number : " + num1 + " " + "&" + " " + num2);
