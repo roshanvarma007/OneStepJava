@@ -8,7 +8,7 @@ public class inseartValueArrayCreation {
 		
 int n , m , p;
 		
-		try (Scanner input = new Scanner (System.in)) {
+Scanner input = new Scanner (System.in) ;
 			System.out.println("Enter the no of element of array");
 			
 			n = input.nextInt();   //Taking value from user , varibale name "n"
@@ -49,4 +49,3 @@ int n , m , p;
 			 
 		}
 	}
-}
