@@ -11,7 +11,7 @@ public class staticNestedExample {
 		void show () {
 			System.out.println("a  : " + a);
 			System.out.println("b   :"  + b);
-			System.out.println()"c  : " + c;
+			System.out.println("c  : " + c);
 		}
 	}
 

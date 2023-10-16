@@ -6,10 +6,10 @@ public class superThisTest {
 		
 		Car car = new Car ("Car", "Ferrari" , 320,true);
 		
-		System.out.print("Type of car" + car.getType() );
-		System.out.print("Model of car" + car.getModel() );
-		System.out.print("Max Speed of car" + car.getMaxSpeed() );
-		System.out.print("Is car automatic ?" + car.isAutomatic);
+		System.out.println("Type of car " + car.getType() );
+		System.out.println("Model of car " + car.getModel() );
+		System.out.println("Max Speed of car " + car.getMaxSpeed() );
+		System.out.println("Is car automatic ?" + car.isAutomatic);
 
 	}
 
