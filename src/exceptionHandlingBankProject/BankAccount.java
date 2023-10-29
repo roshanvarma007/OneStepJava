@@ -10,7 +10,7 @@ public class BankAccount {
 		balance = 0.0;
 		}
 	
-	//Deposite mrthod
+	//Deposite method
 	
 	public void Deposite(double ammount) {
 		balance =  balance + ammount ;
